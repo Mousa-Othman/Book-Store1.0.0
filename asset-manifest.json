@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Book-Store1.0.0/static/css/main.2e99a2b5.css",
+    "main.js": "/Book-Store1.0.0/static/js/main.2685ad56.js",
+    "static/media/home.jpeg": "/Book-Store1.0.0/static/media/home.99054ce262542dc7170b.jpeg",
+    "static/media/fa-solid-900.ttf": "/Book-Store1.0.0/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Book-Store1.0.0/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Book-Store1.0.0/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Book-Store1.0.0/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Book-Store1.0.0/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Book-Store1.0.0/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Book-Store1.0.0/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Book-Store1.0.0/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Book-Store1.0.0/index.html",
+    "main.2e99a2b5.css.map": "/Book-Store1.0.0/static/css/main.2e99a2b5.css.map",
+    "main.2685ad56.js.map": "/Book-Store1.0.0/static/js/main.2685ad56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e99a2b5.css",
+    "static/js/main.2685ad56.js"
+  ]
+}
